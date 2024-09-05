@@ -3,3 +3,4 @@ import { authors, books } from './data.js'
 
 const result = getLongestBookByAuthorName(authors, books, "George Orwell")
 console.log(result);
+getLongestBookByAuthorName(authors, books, "George Orwell")
